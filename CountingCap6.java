@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package programmingchallenges;
 import java.math.BigInteger;
 import java.util.Scanner;
 import java.util.ArrayList;
@@ -11,7 +10,7 @@ import java.util.ArrayList;
  *
  * @author Admin
  */
-public class CountingCap6 {
+public class Main {
 
     static ArrayList<BigInteger> arr = new ArrayList<>();
     public static void main(String[] args) {
